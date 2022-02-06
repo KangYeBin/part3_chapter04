@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">part3_chapter04</string>
+    <string name="save">저장하기</string>
+    <string name="review">리뷰적기</string>
+</resources>
